@@ -1,7 +1,3 @@
-#
-# Conditional build:
-%bcond_without	static_libs	# don't build static libraries
-#
 Summary:	SCoPLib - library for polyhedral representation of high level programs
 Summary(pl.UTF-8):	SCoPLib - biblioteka do wielościanowej reprezentacji programów w językach wyższego poziomu
 Name:		scoplib
