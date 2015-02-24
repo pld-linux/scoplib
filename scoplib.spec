@@ -2,7 +2,7 @@ Summary:	SCoPLib - library for polyhedral representation of high level programs
 Summary(pl.UTF-8):	SCoPLib - biblioteka do wielościanowej reprezentacji programów w językach wyższego poziomu
 Name:		scoplib
 Version:	0.2.1
-Release:	2
+Release:	3
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://web.cse.ohio-state.edu/~pouchet/software/pocc/download/modules/%{name}-%{version}.tar.gz
